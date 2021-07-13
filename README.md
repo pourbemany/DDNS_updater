@@ -12,3 +12,5 @@ User-Agent: Company DeviceName-Model/FirmwareVersionNumber maintainer-contact@ex
 2) Using a third-party website for sending the IP by exploiting a piece of php code to send the information as follows:
 http://username:password@dynupdate.no-ip.com/nic/update?hostname=mytest.example.com&myip=192.0.2.25
 
+To use the second method, you need to put the file "noip_updater.php" on your server. 
+
